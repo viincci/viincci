@@ -44,7 +44,7 @@ Various experiments with machine learning and AI technologies. Mostly from huggi
 
 - When I'm not coding, you can find me watching anime
 - I like space stuff too
-- I play chess challenge me on mrnovakaine
+- I play chess challenge me 
 ---
 
 💻 Made with ❤️ by Vincci
