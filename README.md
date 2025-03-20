@@ -1,4 +1,4 @@
-# Hi there, I'm Vincci 👋
+# Hi there, I'm Viincci 👋
 
 ## About Me 🚀
 I'm a developer passionate about creating useful tools and applications. My work spans from mobile apps to interactive websites, with a focus on clean code and intuitive user experiences.
@@ -42,7 +42,9 @@ Various experiments with machine learning and AI technologies. Mostly from huggi
 
 ## ⚡ Fun fact
 
-When I'm not coding, you can find me watching anime 
+- When I'm not coding, you can find me watching anime
+- I like space stuff too
+- I play chess challenge me on mrnovakaine
 ---
 
 💻 Made with ❤️ by Vincci
